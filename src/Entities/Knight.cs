@@ -2,13 +2,15 @@ namespace RPG_Abstraido.src.Entities
 {
     public class Knight : Hero
     {
-        public Knight( string Name, int Level, string HeroType, int HealthPoint, int ManaPoint)
+        public Knight( string Name, int Level, string HeroType, 
+        int HealthPoint, int ManaPoint, int Damage)
         {
             this.Name = Name;
             this.Level = Level;
             this.HeroType = HeroType;
             this.HealthPoint = HealthPoint;
             this.ManaPoint = ManaPoint;
+            this.Damage = Damage;
         }
 
         public override string Attack()

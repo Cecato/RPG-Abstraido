@@ -4,13 +4,15 @@ namespace RPG_Abstraido.src.Entities
 {
     public class Wizard : Hero
     {
-        public Wizard(string Name, int Level, string HeroType, int HealthPoint, int ManaPoint)
+        public Wizard(string Name, int Level, string HeroType, 
+                        int HealthPoint, int ManaPoint, int Damage)
         {
             this.Name = Name;
             this.Level = Level;
             this.HeroType = HeroType;
             this.HealthPoint = HealthPoint;
             this.ManaPoint = ManaPoint;
+            this.Damage = Damage;
         }
 
        public override string Attack()
@@ -23,14 +25,14 @@ namespace RPG_Abstraido.src.Entities
             if( Bonus > 6)
             {
                 return this.Name + 
-                " Lançou Super Magia de cura"+ 
+                " Lançou Super Magia"+ 
                 " elevada com bonus de " + 
                 Bonus;
             }
             else
             {
                 return this.Name + 
-                " Lançou Magia fraca de cura "+
+                " Lançou Magia fraca"+
                 " com bonus de " + 
                 Bonus;
             }
