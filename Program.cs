@@ -6,8 +6,11 @@ namespace RPGAbstraido
     {
         static void Main(string[] args)
         {         
-            Wizard wizard = new Wizard("Jennica", 23, "Wizard");
-            Console.WriteLine(wizard.Attack());
+            Knight knight = new Knight("Arus", 25, "Knight", 100, 20);
+            Wizard wizard = new Wizard("Jennica", 23, "Wizard", 20, 100);
+
+            Console.WriteLine(wizard);
+            Console.WriteLine(knight);
         }
     }
 
