@@ -1,0 +1,15 @@
+D:\workspace\RPG-Abstraido\bin\Debug\net6.0\RPG-Abstraido.exe
+D:\workspace\RPG-Abstraido\bin\Debug\net6.0\RPG-Abstraido.deps.json
+D:\workspace\RPG-Abstraido\bin\Debug\net6.0\RPG-Abstraido.runtimeconfig.json
+D:\workspace\RPG-Abstraido\bin\Debug\net6.0\RPG-Abstraido.dll
+D:\workspace\RPG-Abstraido\bin\Debug\net6.0\ref\RPG-Abstraido.dll
+D:\workspace\RPG-Abstraido\bin\Debug\net6.0\RPG-Abstraido.pdb
+D:\workspace\RPG-Abstraido\obj\Debug\net6.0\RPG-Abstraido.csproj.AssemblyReference.cache
+D:\workspace\RPG-Abstraido\obj\Debug\net6.0\RPG-Abstraido.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\RPG-Abstraido\obj\Debug\net6.0\RPG-Abstraido.AssemblyInfoInputs.cache
+D:\workspace\RPG-Abstraido\obj\Debug\net6.0\RPG-Abstraido.AssemblyInfo.cs
+D:\workspace\RPG-Abstraido\obj\Debug\net6.0\RPG-Abstraido.csproj.CoreCompileInputs.cache
+D:\workspace\RPG-Abstraido\obj\Debug\net6.0\RPG-Abstraido.dll
+D:\workspace\RPG-Abstraido\obj\Debug\net6.0\ref\RPG-Abstraido.dll
+D:\workspace\RPG-Abstraido\obj\Debug\net6.0\RPG-Abstraido.pdb
+D:\workspace\RPG-Abstraido\obj\Debug\net6.0\RPG-Abstraido.genruntimeconfig.cache
